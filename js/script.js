@@ -46,9 +46,9 @@ function getCourseData(course){
   const courses = {
 cpp: {
   title: "C++ Programming",
-  fee: "PKR 5,500 / month",
-  duration: "2 months",
-  classes: "3 / week",
+  fee: "PKR 20,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -88,9 +88,9 @@ cpp: {
 },
 java: {
   title: "Java Programming",
-  fee: "PKR 6,500 / month",
-  duration: "2.5 months",
-  classes: "3 / week",
+ fee: "PKR 20,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -130,9 +130,9 @@ java: {
 
 python: {
   title: "Python Programming",
-  fee: "PKR 6,000 / month",
-  duration: "2 months",
-  classes: "3 / week",
+  fee: "PKR 20,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -171,9 +171,9 @@ python: {
 },
 frontend: {
   title: "Frontend Web Development",
-  fee: "PKR 7,000 / month",
-  duration: "2.5 months",
-  classes: "3 / week",
+  fee: "PKR 20,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -211,10 +211,9 @@ frontend: {
   `
 },
 php: {
-  title: "PHP Development",
-  fee: "PKR 6,500 / month",
-  duration: "2 months",
-  classes: "3 / week",
+   fee: "PKR 20,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -253,9 +252,9 @@ php: {
 },
 aspnet: {
   title: "ASP.NET Development",
-  fee: "PKR 7,500 / month",
-  duration: "3 months",
-  classes: "3 / week",
+  fee: "PKR 20,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -293,9 +292,9 @@ aspnet: {
 }, 
 fullstack: {
   title: "Full Stack Web Development",
-  fee: "PKR 10,000 / month",
-  duration: "4 months",
-  classes: "3 / week",
+  fee: "PKR 20,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -336,9 +335,9 @@ fullstack: {
 
 english: {
   title: "Spoken English",
-  fee: "PKR 5,000 / month",
-  duration: "2.5 months",
-  classes: "3 / week",
+ fee: "PKR 20,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -378,9 +377,9 @@ english: {
 },
 spanish: {
   title: "Spanish Language Course",
-  fee: "PKR 6,000 / month",
-  duration: "3 months",
-  classes: "3 / week",
+  fee: "PKR 20,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -420,9 +419,9 @@ spanish: {
 },
 turkish: {
   title: "Turkish Language Course",
-  fee: "PKR 5,500 / month",
-  duration: "2.5 months",
-  classes: "3 / week",
+  fee: "PKR 20,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -462,9 +461,9 @@ turkish: {
 },
 french: {
   title: "French Language Course",
-  fee: "PKR 6,000 / month",
-  duration: "3 months",
-  classes: "3 / week",
+  fee: "PKR 20,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -504,9 +503,9 @@ french: {
 },
 german: {
   title: "German Language Course",
-  fee: "PKR 6,000 / month",
-  duration: "3 months",
-  classes: "3 / week",
+ fee: "PKR 20,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -546,9 +545,9 @@ german: {
 },
 korean: {
   title: "Korean Language Course",
-  fee: "PKR 6,500 / month",
-  duration: "3 months",
-  classes: "3 / week",
+ fee: "PKR 20,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -587,10 +586,10 @@ korean: {
   `
 },
 chinese: {
-  title: "Chinese (Mandarin) Language Course",
-  fee: "PKR 6,000 / month",
-  duration: "3 months",
-  classes: "3 / week",
+  title: "Chinese Language Course",
+  fee: "PKR 20,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -601,9 +600,9 @@ chinese: {
 
     <h4>📘 Course Content</h4>
     <ul>
-      <li>Introduction to Mandarin pronunciation (Pinyin system)</li>
+      <li>Introduction to pronunciation </li>
       <li>Basic vocabulary and sentence formation</li>
-      <li>Reading and writing Chinese characters (Hanzi)</li>
+      <li>Reading and writing Chinese characters (</li>
       <li>Daily conversation practice</li>
       <li>Listening comprehension exercises</li>
     </ul>
@@ -631,9 +630,9 @@ chinese: {
 },
 crochet: {
   title: "Crochet Art Course",
-  fee: "PKR 4,000 / month",
-  duration: "2 months",
-  classes: "3 / week",
+   fee: "PKR 10,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -672,9 +671,9 @@ crochet: {
 },
 knitting: {
   title: "Knitting Course",
-  fee: "PKR 4,000 / month",
-  duration: "2 months",
-  classes: "3 / week",
+  fee: "PKR 10,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -713,9 +712,9 @@ knitting: {
 },
 stitching: {
   title: "Dress Making & Stitching",
-  fee: "PKR 5,000 / month",
-  duration: "3 months",
-  classes: "3 / week",
+  fee: "PKR 10,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -755,9 +754,9 @@ stitching: {
 },
 mehndi: {
   title: "Mehndi & Henna Art Course",
-  fee: "PKR 3,500 / month",
-  duration: "1.5 months",
-  classes: "3 / week",
+  fee: "PKR 10,000",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -797,8 +796,8 @@ mehndi: {
 },
 mdcat: {
   title: "MDCAT Preparation",
-  fee: "PKR 8,000 / month",
-  duration: "4 months",
+  fee: "PKR 15,000 / month",
+  duration: "3 months",
   classes: "5 / week",
 
   content: `
@@ -837,8 +836,8 @@ mdcat: {
 },
 ecat: {
   title: "ECAT Preparation",
-  fee: "PKR 8,000 / month",
-  duration: "4 months",
+  fee: "PKR 15,000 / month",
+  duration: "3 months",
   classes: "5 / week",
 
   content: `
@@ -877,9 +876,9 @@ ecat: {
 },
 natgat: {
   title: "NAT / GAT Preparation",
-  fee: "PKR 6,000 / month",
-  duration: "2 months",
-  classes: "4 / week",
+  fee: "PKR 10,000 ",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -917,9 +916,9 @@ natgat: {
 },
 ielts: {
   title: "IELTS / TOEFL / GRE Preparation",
-  fee: "PKR 10,000 / month",
-  duration: "3 months",
-  classes: "4 / week",
+  fee: "PKR 30,000 / month",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -958,7 +957,7 @@ ielts: {
 },
 css: {
   title: "CSS / PMS Preparation",
-  fee: "PKR 12,000 / month",
+  fee: "PKR 25,000 / month",
   duration: "6 months",
   classes: "5 / week",
 
@@ -1000,9 +999,9 @@ css: {
 },
 basiccomputer: {
   title: "Basic Computer Proficiency",
-  fee: "PKR 4,000 / month",
-  duration: "1.5 months",
-  classes: "3 / week",
+  fee: "PKR 5,000 ",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -1040,9 +1039,9 @@ basiccomputer: {
 },
 msoffice: {
   title: "MS Office (Word, Excel, PowerPoint)",
-  fee: "PKR 5,000 / month",
-  duration: "2 months",
-  classes: "3 / week",
+  fee: "PKR 10,000 ",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -1080,9 +1079,9 @@ msoffice: {
 },
 freelancing: {
   title: "Freelancing Training",
-  fee: "PKR 6,000 / month",
-  duration: "2 months",
-  classes: "3 / week",
+  fee: "PKR 15,000 ",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -1122,9 +1121,9 @@ freelancing: {
 },
 graphicdesign: {
   title: "Graphic Designing",
-  fee: "PKR 7,000 / month",
-  duration: "3 months",
-  classes: "3 / week",
+  fee: "PKR 10,000 / month",
+  duration: "2 months",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -1163,9 +1162,9 @@ graphicdesign: {
 },
 canva: {
   title: "Designing with Canva",
-  fee: "PKR 4,500 / month",
-  duration: "1.5 months",
-  classes: "3 / week",
+  fee: "PKR 10,000 ",
+  duration: "1 month",
+  classes: "5/ week",
 
   content: `
     <div class="quick-info compact">
@@ -1204,9 +1203,9 @@ canva: {
 },
 socialmedia: {
   title: "Social Media Management",
-  fee: "PKR 6,000 / month",
+  fee: "PKR 10,000 / month",
   duration: "2 months",
-  classes: "3 / week",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -1244,9 +1243,9 @@ socialmedia: {
 },
 digitalmarketing: {
   title: "Digital Marketing",
-  fee: "PKR 7,500 / month",
-  duration: "3 months",
-  classes: "3 / week",
+  fee: "PKR 15,000 / month",
+  duration: "2 months",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -1284,9 +1283,9 @@ digitalmarketing: {
 },
 videoediting: {
   title: "Video Editing",
-  fee: "PKR 6,500 / month",
+  fee: "PKR 15,000 / month",
   duration: "2 months",
-  classes: "3 / week",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -1324,9 +1323,9 @@ videoediting: {
 },
 sql: {
   title: "SQL (Structured Query Language)",
-  fee: "PKR 6,000 / month",
-  duration: "2 months",
-  classes: "3 / week",
+  fee: "PKR 20,000 ",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -1364,9 +1363,9 @@ sql: {
 },
 mssql: {
   title: "MS SQL Server",
-  fee: "PKR 6,500 / month",
-  duration: "2 months",
-  classes: "3 / week",
+  fee: "PKR 15,000 ",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -1404,9 +1403,9 @@ mssql: {
 },
 mysql: {
   title: "MySQL Database Management",
-  fee: "PKR 6,000 / month",
-  duration: "2 months",
-  classes: "3 / week",
+  fee: "PKR 15,000 / month",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -1444,9 +1443,9 @@ mysql: {
 },
 access: {
   title: "MS Access Database",
-  fee: "PKR 5,000 / month",
-  duration: "1.5 months",
-  classes: "3 / week",
+  fee: "PKR 10,000 / month",
+  duration: "1 month",
+  classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
@@ -1484,7 +1483,7 @@ access: {
 }, 
 middle: {
   title: "Middle School Education (6th–8th)",
-  fee: "PKR 4,000 / month",
+  fee: "PKR 1,000 / month for each subject",
   duration: "Academic Year Basis",
   classes: "5 / week",
 
@@ -1524,8 +1523,8 @@ middle: {
   `
 }, 
 matric: {
-  title: "Matric & O Level Preparation",
-  fee: "PKR 5,500 / month",
+  title: "Matric  Preparation",
+  fee: "PKR 2000 / month for each subject",
   duration: "Academic Year Basis",
   classes: "5 / week",
 
@@ -1565,7 +1564,7 @@ matric: {
   `
 },fscics: {
   title: "Intermediate Programs (F.A, F.Sc, I.Com, ICS)",
-  fee: "PKR 6,000 / month",
+  fee: "PKR 3,000 / month for each subject",
   duration: "Academic Year Basis",
   classes: "5 / week",
 
@@ -1626,8 +1625,8 @@ matric: {
   `
 },
 alevel: {
-  title: "A Level Preparation",
-  fee: "PKR 8,000 / month",
+  title: "A Level Preparation (Cambridge Curriculum)",
+  fee: "PKR 10,000 / month for each subject",
   duration: "Academic Year Basis",
   classes: "5 / week",
 
@@ -1667,8 +1666,8 @@ alevel: {
   `
 },
 olevel: {
-  title: "O Level (Cambridge Curriculum)",
-  fee: "PKR 7,500 / month",
+  title: "O Level Preparation (Cambridge Curriculum)",
+  fee: "PKR 8,000 / month for each subject",
   duration: "Academic Year Basis",
   classes: "5 / week",
 
