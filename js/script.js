@@ -52,9 +52,9 @@ cpp: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 5,500 / month</p>
-      <p><b>Duration:</b> 2 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+      <p><b>Fee:</b> PKR 20,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -94,9 +94,9 @@ java: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 6,500 / month</p>
-      <p><b>Duration:</b> 2.5 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+        <p><b>Fee:</b> PKR 20,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -136,9 +136,9 @@ python: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 6,000 / month</p>
-      <p><b>Duration:</b> 2 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+        <p><b>Fee:</b> PKR 20,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -177,9 +177,9 @@ frontend: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 7,000 / month</p>
-      <p><b>Duration:</b> 2.5 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+        <p><b>Fee:</b> PKR 20,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -217,9 +217,9 @@ php: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 6,500 / month</p>
-      <p><b>Duration:</b> 2 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+        <p><b>Fee:</b> PKR 20,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -258,9 +258,9 @@ aspnet: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 7,500 / month</p>
-      <p><b>Duration:</b> 3 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+        <p><b>Fee:</b> PKR 20,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -298,9 +298,9 @@ fullstack: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 10,000 / month</p>
-      <p><b>Duration:</b> 4 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+        <p><b>Fee:</b> PKR 20,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -341,9 +341,9 @@ english: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 5,000 / month</p>
-      <p><b>Duration:</b> 2.5 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+       <p><b>Fee:</b> PKR 20,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -383,9 +383,9 @@ spanish: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 6,000 / month</p>
-      <p><b>Duration:</b> 3 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+        <p><b>Fee:</b> PKR 20,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -425,9 +425,9 @@ turkish: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 5,500 / month</p>
-      <p><b>Duration:</b> 2.5 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+       <p><b>Fee:</b> PKR 20,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -467,9 +467,9 @@ french: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 6,000 / month</p>
-      <p><b>Duration:</b> 3 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+       <p><b>Fee:</b> PKR 20,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -509,9 +509,9 @@ german: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 6,000 / month</p>
-      <p><b>Duration:</b> 3 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+        <p><b>Fee:</b> PKR 20,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -551,9 +551,9 @@ korean: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 6,500 / month</p>
-      <p><b>Duration:</b> 3 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+        <p><b>Fee:</b> PKR 20,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -593,9 +593,9 @@ chinese: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 6,000 / month</p>
-      <p><b>Duration:</b> 3 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+        <p><b>Fee:</b> PKR 20,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -636,9 +636,9 @@ crochet: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 4,000 / month</p>
-      <p><b>Duration:</b> 2 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+      <p><b>Fee:</b> PKR 10,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -677,9 +677,9 @@ knitting: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 4,000 / month</p>
-      <p><b>Duration:</b> 2 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+      <p><b>Fee:</b> PKR 10,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -718,9 +718,9 @@ stitching: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 5,000 / month</p>
-      <p><b>Duration:</b> 3 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+      <p><b>Fee:</b> PKR 10,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -760,9 +760,9 @@ mehndi: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 3,500 / month</p>
-      <p><b>Duration:</b> 1.5 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+    <p><b>Fee:</b> PKR 10,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -802,8 +802,8 @@ mdcat: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 8,000 / month</p>
-      <p><b>Duration:</b> 4 months</p>
+        <p><b>Fee:</b> PKR 15,000 / month</p>
+      <p><b>Duration:</b> 3 months</p>
       <p><b>Classes/Week:</b> 5</p>
     </div>
 
@@ -842,8 +842,8 @@ ecat: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 8,000 / month</p>
-      <p><b>Duration:</b> 4 months</p>
+      <p><b>Fee:</b> PKR 15,000 / month</p>
+      <p><b>Duration:</b> 3 months</p>
       <p><b>Classes/Week:</b> 5</p>
     </div>
 
@@ -882,9 +882,9 @@ natgat: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 6,000 / month</p>
-      <p><b>Duration:</b> 2 months</p>
-      <p><b>Classes/Week:</b> 4</p>
+      <p><b>Fee:</b> PKR 10,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -922,9 +922,9 @@ ielts: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 10,000 / month</p>
-      <p><b>Duration:</b> 3 months</p>
-      <p><b>Classes/Week:</b> 4</p>
+      <p><b>Fee:</b> PKR 30,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -963,7 +963,7 @@ css: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 12,000 / month</p>
+      <p><b>Fee:</b> PKR 25,000 / month</p>
       <p><b>Duration:</b> 6 months</p>
       <p><b>Classes/Week:</b> 5</p>
     </div>
@@ -1005,9 +1005,9 @@ basiccomputer: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 4,000 / month</p>
-      <p><b>Duration:</b> 1.5 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+      <p><b>Fee:</b> PKR 5,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -1045,9 +1045,9 @@ msoffice: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 5,000 / month</p>
-      <p><b>Duration:</b> 2 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+      <p><b>Fee:</b> PKR 10,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -1085,9 +1085,9 @@ freelancing: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 6,000 / month</p>
-      <p><b>Duration:</b> 2 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+      <p><b>Fee:</b> PKR 15,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -1127,9 +1127,9 @@ graphicdesign: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 7,000 / month</p>
-      <p><b>Duration:</b> 3 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+      <p><b>Fee:</b> PKR 10,000 / month</p>
+      <p><b>Duration:</b> 2 months</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -1168,9 +1168,9 @@ canva: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 4,500 / month</p>
-      <p><b>Duration:</b> 1.5 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+      <p><b>Fee:</b> PKR 10,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -1209,9 +1209,9 @@ socialmedia: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 6,000 / month</p>
+      <p><b>Fee:</b> PKR 10,000 / month</p>
       <p><b>Duration:</b> 2 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -1249,9 +1249,9 @@ digitalmarketing: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 7,500 / month</p>
-      <p><b>Duration:</b> 3 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+      <p><b>Fee:</b> PKR 15,000 / month</p>
+      <p><b>Duration:</b> 2 months</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -1289,9 +1289,9 @@ videoediting: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 6,500 / month</p>
+      <p><b>Fee:</b> PKR 15,000 / month</p>
       <p><b>Duration:</b> 2 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -1329,9 +1329,9 @@ sql: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 6,000 / month</p>
-      <p><b>Duration:</b> 2 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+      <p><b>Fee:</b> PKR 20,000</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -1369,9 +1369,9 @@ mssql: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 6,500 / month</p>
-      <p><b>Duration:</b> 2 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+      <p><b>Fee:</b> PKR 15,000 </p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -1409,9 +1409,9 @@ mysql: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 6,000 / month</p>
-      <p><b>Duration:</b> 2 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+      <p><b>Fee:</b> PKR 15,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -1443,15 +1443,15 @@ mysql: {
 },
 access: {
   title: "MS Access Database",
-  fee: "PKR 10,000 / month",
+  fee: "PKR 10,000 ",
   duration: "1 month",
   classes: "5 / week",
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 5,000 / month</p>
-      <p><b>Duration:</b> 1.5 months</p>
-      <p><b>Classes/Week:</b> 3</p>
+      <p><b>Fee:</b> PKR 10,000 / month</p>
+      <p><b>Duration:</b> 1 month</p>
+      <p><b>Classes/Week:</b> 5</p>
     </div>
 
     <h4>📘 Course Content</h4>
@@ -1489,7 +1489,7 @@ middle: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 4,000 / month</p>
+      <p><b>Fee:</b> PKR 1,000 / month for each subject</p>
       <p><b>Duration:</b> Academic Year</p>
       <p><b>Classes/Week:</b> 5</p>
     </div>
@@ -1530,7 +1530,7 @@ matric: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 5,500 / month</p>
+      <p><b>Fee:</b> PKR 2000 / month for each subject</p>
       <p><b>Duration:</b> Academic Year</p>
       <p><b>Classes/Week:</b> 5</p>
     </div>
@@ -1570,7 +1570,7 @@ matric: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 6,000 / month</p>
+      <p><b>Fee:</b> PKR 3,000 / month for each subject</p>
       <p><b>Duration:</b> Academic Year</p>
       <p><b>Classes/Week:</b> 5</p>
     </div>
@@ -1632,7 +1632,7 @@ alevel: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 8,000 / month</p>
+      <p><b>Fee:</b> PKR 10,000 / month for each subject</p>
       <p><b>Duration:</b> Academic Year</p>
       <p><b>Classes/Week:</b> 5</p>
     </div>
@@ -1673,7 +1673,7 @@ olevel: {
 
   content: `
     <div class="quick-info compact">
-      <p><b>Fee:</b> PKR 7,500 / month</p>
+      <p><b>Fee:</b> PKR 8,000 / month for each subject</p>
       <p><b>Duration:</b> Academic Year</p>
       <p><b>Classes/Week:</b> 5</p>
     </div>
